@@ -1,0 +1,4 @@
+"category_group_id","family","outcome","direction","exposure","mean_weight","sd_weight","p10_weight","median_weight","p90_weight","proportion_above_equal_weight","threshold_equal_weight"
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","positive","Nitrate_ln_U",0.435403609145282,0.102787419326663,0.377258264164044,0.435403609145282,0.493548954126521,1,0.333333333333333
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","positive","Perchlorate_ln_U",2.12284401704183e-05,2.95509427112522e-05,4.51190258515304e-06,2.12284401704183e-05,3.79449777556836e-05,0,0.333333333333333
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","positive","Thiocyanate_ln_U",0.564575162414547,0.102816970269374,0.506413100895723,0.564575162414547,0.622737223933371,1,0.333333333333333

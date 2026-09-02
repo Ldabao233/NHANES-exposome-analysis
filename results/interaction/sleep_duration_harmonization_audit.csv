@@ -1,0 +1,3 @@
+"cycle_sleep","N_total","N_sleep_nonmissing","N_short","N_recommended","N_long","pct_short","pct_recommended","pct_long","mean_sleep_hours","sd_sleep_hours","trouble_sleeping_yes","diagnosed_sleep_disorder_yes"
+"2013-2014",6464,6454,2367,3497,590,36.674930275798,54.1834521227146,9.14161760148745,6.95057328788348,1.42812905313632,1582,579
+"2015-2016",6327,6294,1379,3376,1539,21.9097553225294,53.6383857642199,24.4518589132507,7.75278042580235,1.56859302698556,1629,0

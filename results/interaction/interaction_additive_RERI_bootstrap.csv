@@ -1,0 +1,2 @@
+"Pollutant","Modifier","n","CVD_events","reri_cut_value","reri_cut_rule","RERI","RERI_Low","RERI_High","RERI_P_boot","valid_bootstrap_reps","status","error","RERI_P_FDR_BH_all"
+"Furan_binary_S","Smoking",3586,375,,"binary analyte",2.00668710521741,1.30522473484766,2.92272739569211,0,1000,"sparse_joint_cells","At least one joint-exposure cell has N<20 or <3 CVD events.",

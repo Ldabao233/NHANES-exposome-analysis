@@ -1,0 +1,12 @@
+category_group_id,family,n_start,n_cvd_final,cvd_events,n_le8_final
+C01,Urinary flame retardants,3078,1928,174,2194
+C02,Serum metals,5307,3253,256,3687
+C03,Urinary metals,3687,2220,177,2487
+C04,Urinary PAH metabolites,3687,2151,160,2400
+C05,"Urinary phenols, parabens and related compounds",3584,2143,190,2425
+C06,"Urinary perchlorate, nitrate and thiocyanate",3687,2218,175,2482
+C07,Serum PFAS,3584,2073,185,2366
+C08,Urinary phthalates,3369,2043,186,2324
+C09,Serum VOCs,5307,2815,217,3163
+C10,Urinary VOC metabolites,3687,1588,125,1794
+C11,Urinary pesticides,3560,2065,182,2306

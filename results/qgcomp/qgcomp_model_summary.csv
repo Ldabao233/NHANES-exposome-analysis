@@ -1,0 +1,113 @@
+"category_group_id","family","outcome","bootstraps","p_value","status","error","n_exposures","n_complete","CVD_events","q","estimate","std_error","ci_low","ci_high","effect_type","effect","effect_ci_low","effect_ci_high","positive_component_sum","negative_component_sum","case_weights_used","strata_and_psu_incorporated","elapsed_minutes","warning_count","warnings","BH_FDR"
+"C01","Urinary flame retardants","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C01","Urinary flame retardants","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C02","Serum metals","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C02","Serum metals","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C03","Urinary metals","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C03","Urinary metals","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C04","Urinary PAH metabolites","CVD",1000,0.109632825988526,"","",7,2151,160,4,0.209244351651383,0.130790335893792,-0.0470999962263456,0.465588699529111,"OR",1.23274618529713,0.953991997220926,1.59295168281448,1.00746592704226,-0.75205615305909,TRUE,FALSE,1.18863333333333,1,"non-integer #successes in a binomial glm!",0.219265651977052
+"C04","Urinary PAH metabolites","LE8",1000,6.24346352395833e-10,"","",7,2400,,4,-2.91709013414299,0.469763577826852,-3.8378098279323,-1.99637044035368,"beta",-2.91709013414299,-3.8378098279323,-1.99637044035368,3.22797491825538,-6.14506505239837,TRUE,FALSE,0.46315,0,"",1.24869270479167e-09
+"C05","Urinary phenols, parabens and related compounds","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C05","Urinary phenols, parabens and related compounds","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",1000,0.565475083043531,"","",3,2218,175,4,-0.082041838457827,0.142748916867849,-0.361824574350914,0.19774089743526,"OR",0.921233414904669,0.696404524342475,1.21864659845254,0.197814425371,-0.296967589885166,TRUE,FALSE,0.67965,1,"non-integer #successes in a binomial glm!",0.565475083043531
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",1000,0.0937893989610015,"","",3,2482,,4,0.786872020720764,0.469386285176858,-0.133108193062926,1.70685223450445,"beta",0.786872020720764,-0.133108193062926,1.70685223450445,3.09477256162142,-2.30790054090065,TRUE,FALSE,0.419283333333334,0,"",0.0937893989610015
+"C07","Serum PFAS","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C07","Serum PFAS","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C08","Urinary phthalates","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C08","Urinary phthalates","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C09","Serum VOCs","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C09","Serum VOCs","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C10","Urinary VOC metabolites","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C10","Urinary VOC metabolites","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C11","Urinary pesticides","CVD",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",
+"C11","Urinary pesticides","LE8",1000,,"error","Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",,,,,,,,,"",,,,,,,,,,"",

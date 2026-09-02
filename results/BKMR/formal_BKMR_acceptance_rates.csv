@@ -1,0 +1,10 @@
+"category_group_id","family","outcome","parameter","acceptance_rate"
+"C04","Urinary PAH metabolites","CVD","r",0
+"C04","Urinary PAH metabolites","CVD","lambda",0.4208
+"C04","Urinary PAH metabolites","CVD","rdelta",0.0184
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","r",0
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","lambda",0.4736
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","rdelta",0.0428
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8","r",0
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8","lambda",0.4328
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8","rdelta",0.0092

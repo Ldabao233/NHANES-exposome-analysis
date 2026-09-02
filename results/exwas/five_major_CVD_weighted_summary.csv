@@ -1,0 +1,6 @@
+outcome_code,outcome,exposures_tested,nominal_p05,positive_nominal_p05,fdr_p05,positive_fdr_p05,median_n,median_events
+CHD,Coronary heart disease,149,15,12,1,0,2141,71
+CHF,Congestive heart failure,149,16,13,1,0,2145,41
+angina,Angina,149,30,23,0,0,2145,45
+heart.attack,Myocardial infarction,149,23,19,0,0,2144,68
+stroke,Stroke,149,8,2,1,0,2144,55

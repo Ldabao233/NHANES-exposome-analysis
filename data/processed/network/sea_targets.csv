@@ -1,0 +1,120 @@
+ChemicalID_30,Chemical,Gene,Source
+2,"2,5-Dimethylfuran",HMBS,SEA
+5,Fluorene,DNMT3L,SEA
+5,Fluorene,DRD5,SEA
+6,Toluene,HMBS,SEA
+6,Toluene,KCNN4,SEA
+6,Toluene,NLRP1,SEA
+8,Acrylamide,ABAT,SEA
+8,Acrylamide,ALDH5A1,SEA
+11,Styrene,CHRNA10,SEA
+11,Styrene,CHRNA9,SEA
+11,Styrene,PAM,SEA
+13,A-alpha-C,GABRA6,SEA
+13,A-alpha-C,KAT8,SEA
+13,A-alpha-C,QTRT1,SEA
+13,A-alpha-C,TUBB3,SEA
+15,HEMA mercapturic acid,ACE,SEA
+15,HEMA mercapturic acid,GGH,SEA
+15,HEMA mercapturic acid,GNPAT,SEA
+15,HEMA mercapturic acid,GSTM1,SEA
+15,HEMA mercapturic acid,NAALAD2,SEA
+15,HEMA mercapturic acid,SPSB2,SEA
+15,HEMA mercapturic acid,TLR2,SEA
+16,MeA-alpha-C,EIF2AK2,SEA
+16,MeA-alpha-C,GABRA4,SEA
+16,MeA-alpha-C,GABRA6,SEA
+16,MeA-alpha-C,PTK6,SEA
+16,MeA-alpha-C,QTRT1,SEA
+16,MeA-alpha-C,TUBB3,SEA
+17,Mono-benzyl phthalate,AKR1B10,SEA
+17,Mono-benzyl phthalate,AKR1C2,SEA
+17,Mono-benzyl phthalate,AKR1C3,SEA
+17,Mono-benzyl phthalate,ANPEP,SEA
+17,Mono-benzyl phthalate,CAPN1,SEA
+17,Mono-benzyl phthalate,CAPN2,SEA
+17,Mono-benzyl phthalate,CASP1,SEA
+17,Mono-benzyl phthalate,CASP3,SEA
+17,Mono-benzyl phthalate,CELA1,SEA
+17,Mono-benzyl phthalate,CES1,SEA
+17,Mono-benzyl phthalate,CPA3,SEA
+17,Mono-benzyl phthalate,CTRB1,SEA
+17,Mono-benzyl phthalate,CTSB,SEA
+17,Mono-benzyl phthalate,CTSK,SEA
+17,Mono-benzyl phthalate,CTSL,SEA
+17,Mono-benzyl phthalate,CTSS,SEA
+17,Mono-benzyl phthalate,CTSV,SEA
+17,Mono-benzyl phthalate,DHODH,SEA
+17,Mono-benzyl phthalate,DNPEP,SEA
+17,Mono-benzyl phthalate,EPOR,SEA
+17,Mono-benzyl phthalate,F13A1,SEA
+17,Mono-benzyl phthalate,FABP4,SEA
+17,Mono-benzyl phthalate,FOLH1,SEA
+17,Mono-benzyl phthalate,HAAO,SEA
+17,Mono-benzyl phthalate,HCAR2,SEA
+17,Mono-benzyl phthalate,HMGB1,SEA
+17,Mono-benzyl phthalate,KCNA2,SEA
+17,Mono-benzyl phthalate,KDM4D,SEA
+17,Mono-benzyl phthalate,KDM6B,SEA
+17,Mono-benzyl phthalate,KLK2,SEA
+17,Mono-benzyl phthalate,KLK3,SEA
+17,Mono-benzyl phthalate,KLK4,SEA
+17,Mono-benzyl phthalate,KLK5,SEA
+17,Mono-benzyl phthalate,KLK7,SEA
+17,Mono-benzyl phthalate,KLK8,SEA
+17,Mono-benzyl phthalate,KYNU,SEA
+17,Mono-benzyl phthalate,LAP3,SEA
+17,Mono-benzyl phthalate,LTA4H,SEA
+17,Mono-benzyl phthalate,NAAA,SEA
+17,Mono-benzyl phthalate,P2RX4,SEA
+17,Mono-benzyl phthalate,PADI1,SEA
+17,Mono-benzyl phthalate,PADI4,SEA
+17,Mono-benzyl phthalate,PAM,SEA
+17,Mono-benzyl phthalate,PARP10,SEA
+17,Mono-benzyl phthalate,PLAU,SEA
+17,Mono-benzyl phthalate,PPIA,SEA
+17,Mono-benzyl phthalate,PREP,SEA
+17,Mono-benzyl phthalate,PTGER1,SEA
+17,Mono-benzyl phthalate,RNPEP,SEA
+17,Mono-benzyl phthalate,SLC15A1,SEA
+17,Mono-benzyl phthalate,SLC16A3,SEA
+17,Mono-benzyl phthalate,SLC6A5,SEA
+17,Mono-benzyl phthalate,SLC7A5,SEA
+17,Mono-benzyl phthalate,TGM1,SEA
+17,Mono-benzyl phthalate,TGM2,SEA
+17,Mono-benzyl phthalate,TGM6,SEA
+17,Mono-benzyl phthalate,TXNRD1,SEA
+17,Mono-benzyl phthalate,USP4,SEA
+17,Mono-benzyl phthalate,USP5,SEA
+18,Ethylbenzene,ADH1C,SEA
+18,Ethylbenzene,CES1,SEA
+18,Ethylbenzene,CPA1,SEA
+18,Ethylbenzene,CPA3,SEA
+18,Ethylbenzene,FUCA1,SEA
+18,Ethylbenzene,G6PC,SEA
+18,Ethylbenzene,SIGMAR1,SEA
+18,Ethylbenzene,SLC15A1,SEA
+18,Ethylbenzene,SLC18A2,SEA
+18,Ethylbenzene,TAAR1,SEA
+20,1-Aminonaphthalene,ACP3,SEA
+20,1-Aminonaphthalene,CHAT,SEA
+20,1-Aminonaphthalene,CHRNE,SEA
+20,1-Aminonaphthalene,FABP7,SEA
+20,1-Aminonaphthalene,IFNAR1,SEA
+20,1-Aminonaphthalene,KAT8,SEA
+20,1-Aminonaphthalene,PTP4A1,SEA
+20,1-Aminonaphthalene,PTP4A2,SEA
+20,1-Aminonaphthalene,QTRT1,SEA
+22,Xylene,HMBS,SEA
+22,Xylene,KCNK9,SEA
+22,Xylene,NFE2L2,SEA
+22,Xylene,NLRP1,SEA
+22,Xylene,RAPGEF4,SEA
+22,Xylene,SCN4A,SEA
+25,"2,6-Dimethylaniline",DDX3X,SEA
+25,"2,6-Dimethylaniline",SCN4A,SEA
+27,2-Aminonaphthalene,MECP2,SEA
+28,4-Aminobiphenyl,MECP2,SEA
+28,4-Aminobiphenyl,SLC7A5,SEA
+28,4-Aminobiphenyl,SMAD3,SEA
+28,4-Aminobiphenyl,UQCRB,SEA

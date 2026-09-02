@@ -1,0 +1,160 @@
+exposure,family,matrix,description
+PBB153_ln_S,Brominated Flame Retardants,serum,PBB153_ln_S-ln-Zscore
+PBDE28_ln_S,Brominated Flame Retardants,serum,PBDE28_ln_S-ln-Zscore
+PBDE47_ln_S,Brominated Flame Retardants,serum,PBDE47_ln_S-ln-Zscore
+PBDE85_binary_S,Brominated Flame Retardants,serum,PBDE85_binary_S-ln-Zscore
+PBDE99_ln_S,Brominated Flame Retardants,serum,PBDE99_ln_S-ln-Zscore
+PBDE100_ln_S,Brominated Flame Retardants,serum,PBDE100_ln_S-ln-Zscore
+PBDE153_ln_S,Brominated Flame Retardants,serum,PBDE153_ln_S-ln-Zscore
+PBDE154_ln_S,Brominated Flame Retardants,serum,PBDE154_ln_S-ln-Zscore
+PBDE183_binary_S,Brominated Flame Retardants,serum,PBDE183_binary_S-ln-Zscore
+PBDE209_ln_S,Brominated Flame Retardants,serum,PBDE209_ln_S-ln-Zscore
+EO_ln_S,Gaseous Pollutants,serum,EO_ln_S-ln-Zscore
+FA_ln_S,Gaseous Pollutants,serum,FA_ln_S-ln-Zscore
+Cd_ln_S,Heavy Metals,serum,Cd_ln_S-ln-Zscore
+Pb_ln_S,Heavy Metals,serum,Pb_ln_S-ln-Zscore
+THg_ln_S,Heavy Metals,serum,THg_ln_S-ln-Zscore
+IHg_binary_S,Heavy Metals,serum,IHg_binary_S-ln-Zscore
+Se_ln_S,Heavy Metals,serum,Se_ln_S-ln-Zscore
+Mn_ln_S,Heavy Metals,serum,Mn_ln_S-ln-Zscore
+PFHS_ln_S,Polyfluoroalkyl Substances (PFAS),serum,PFHS_ln_S-ln-Zscore
+MeFOSAA_binary_S,Polyfluoroalkyl Substances (PFAS),serum,MeFOSAA_binary_S-ln-Zscore
+PFDA_ln_S,Polyfluoroalkyl Substances (PFAS),serum,PFDA_ln_S-ln-Zscore
+PFHpA_binary_S,Polyfluoroalkyl Substances (PFAS),serum,PFHpA_binary_S-ln-Zscore
+PFNA_ln_S,Polyfluoroalkyl Substances (PFAS),serum,PFNA_ln_S-ln-Zscore
+PFUnDA_binary_S,Polyfluoroalkyl Substances (PFAS),serum,PFUnDA_binary_S-ln-Zscore
+n_PFOA_ln_S,Polyfluoroalkyl Substances (PFAS),serum,n_PFOA_ln_S-ln-Zscore
+n_PFOS_ln_S,Polyfluoroalkyl Substances (PFAS),serum,n_PFOS_ln_S-ln-Zscore
+Sm_PFOS_ln_S,Polyfluoroalkyl Substances (PFAS),serum,Sm_PFOS_ln_S-ln-Zscore
+X25_DMF_binary_S,Volatile Organic Compounds (VOC),serum,X25_DMF_binary_S-ln-Zscore
+Benzene_binary_S,Volatile Organic Compounds (VOC),serum,Benzene_binary_S-ln-Zscore
+X14_DCB_binary_S,Volatile Organic Compounds (VOC),serum,X14_DCB_binary_S-ln-Zscore
+Ethylbenzene_binary_S,Volatile Organic Compounds (VOC),serum,Ethylbenzene_binary_S-ln-Zscore
+Furan_binary_S,Volatile Organic Compounds (VOC),serum,Furan_binary_S-ln-Zscore
+o_Xylene_binary_S,Volatile Organic Compounds (VOC),serum,o_Xylene_binary_S-ln-Zscore
+m_p_Xylene_binary_S,Volatile Organic Compounds (VOC),serum,m_p_Xylene_binary_S-ln-Zscore
+BDCM_binary_S,Volatile Organic Compounds (VOC),serum,BDCM_binary_S-ln-Zscore
+Chloroform_binary_S,Volatile Organic Compounds (VOC),serum,Chloroform_binary_S-ln-Zscore
+DBCM_binary_S,Volatile Organic Compounds (VOC),serum,DBCM_binary_S-ln-Zscore
+Toluene_ln_S,Volatile Organic Compounds (VOC),serum,Toluene_ln_S-ln-Zscore
+X1_AN_ln_U,Aromatic Amines,urine,X1_AN_ln_U-creatinine-ln-Zscore
+X2_AN_ln_U,Aromatic Amines,urine,X2_AN_ln_U-creatinine-ln-Zscore
+X4_ABP_ln_U,Aromatic Amines,urine,X4_ABP_ln_U-creatinine-ln-Zscore
+o_ANS_ln_U,Aromatic Amines,urine,o_ANS_ln_U-creatinine-ln-Zscore
+X26_DMA_binary_U,Aromatic Amines,urine,X26_DMA_binary_U-creatinine-ln-Zscore
+o_TLD_ln_U,Aromatic Amines,urine,o_TLD_ln_U-creatinine-ln-Zscore
+A_a_C_binary_U,Aromatic Amines,urine,A_a_C_binary_U-creatinine-ln-Zscore
+Harman_ln_U,Aromatic Amines,urine,Harman_ln_U-creatinine-ln-Zscore
+MeA_a_C_binary_U,Aromatic Amines,urine,MeA_a_C_binary_U-creatinine-ln-Zscore
+Norharman_ln_U,Aromatic Amines,urine,Norharman_ln_U-creatinine-ln-Zscore
+PhIP_binary_U,Aromatic Amines,urine,PhIP_binary_U-creatinine-ln-Zscore
+X4_MDA_binary_U,Aromatic Amines,urine,X4_MDA_binary_U-creatinine-ln-Zscore
+PPDA_binary_U,Aromatic Amines,urine,PPDA_binary_U-creatinine-ln-Zscore
+IPPPP_binary_U,Brominated Flame Retardants,urine,IPPPP_binary_U-creatinine-ln-Zscore
+TBPPP_binary_U,Brominated Flame Retardants,urine,TBPPP_binary_U-creatinine-ln-Zscore
+DPCP_binary_U,Brominated Flame Retardants,urine,DPCP_binary_U-creatinine-ln-Zscore
+DPHP_ln_U,Brominated Flame Retardants,urine,DPHP_ln_U-creatinine-ln-Zscore
+BDCPP_ln_U,Brominated Flame Retardants,urine,BDCPP_ln_U-creatinine-ln-Zscore
+BCPP_binary_U,Brominated Flame Retardants,urine,BCPP_binary_U-creatinine-ln-Zscore
+BCETP_ln_U,Brominated Flame Retardants,urine,BCETP_ln_U-creatinine-ln-Zscore
+DBUP_binary_U,Brominated Flame Retardants,urine,DBUP_binary_U-creatinine-ln-Zscore
+GLYP_ln_U,Herbicides,urine,GLYP_ln_U-creatinine-ln-Zscore
+Total_As_ln_U,Heavy Metals,urine,Total_As_ln_U-creatinine-ln-Zscore
+As_III_binary_U,Heavy Metals,urine,As_III_binary_U-creatinine-ln-Zscore
+AsB_binary_U,Heavy Metals,urine,AsB_binary_U-creatinine-ln-Zscore
+AsC_binary_U,Heavy Metals,urine,AsC_binary_U-creatinine-ln-Zscore
+DMA_ln_U,Heavy Metals,urine,DMA_ln_U-creatinine-ln-Zscore
+MMA_binary_U,Heavy Metals,urine,MMA_binary_U-creatinine-ln-Zscore
+Hg_binary_U,Heavy Metals,urine,Hg_binary_U-creatinine-ln-Zscore
+Ba_ln_U,Heavy Metals,urine,Ba_ln_U-creatinine-ln-Zscore
+Cd_ln_U,Heavy Metals,urine,Cd_ln_U-creatinine-ln-Zscore
+Co_ln_U,Heavy Metals,urine,Co_ln_U-creatinine-ln-Zscore
+Cs_ln_U,Heavy Metals,urine,Cs_ln_U-creatinine-ln-Zscore
+Mo_ln_U,Heavy Metals,urine,Mo_ln_U-creatinine-ln-Zscore
+Pb_ln_U,Heavy Metals,urine,Pb_ln_U-creatinine-ln-Zscore
+Sb_ln_U,Heavy Metals,urine,Sb_ln_U-creatinine-ln-Zscore
+Tl_ln_U,Heavy Metals,urine,Tl_ln_U-creatinine-ln-Zscore
+W_ln_U,Heavy Metals,urine,W_ln_U-creatinine-ln-Zscore
+U_ln_U,Heavy Metals,urine,U_ln_U-creatinine-ln-Zscore
+Mn_binary_U,Heavy Metals,urine,Mn_binary_U-creatinine-ln-Zscore
+Sn_ln_U,Heavy Metals,urine,Sn_ln_U-creatinine-ln-Zscore
+Sr_ln_U,Heavy Metals,urine,Sr_ln_U-creatinine-ln-Zscore
+X1_NP_ln_U,Polycyclic Aromatic Hydrocarbons (PAH),urine,X1_NP_ln_U-creatinine-ln-Zscore
+X2_NP_ln_U,Polycyclic Aromatic Hydrocarbons (PAH),urine,X2_NP_ln_U-creatinine-ln-Zscore
+X3_FL_ln_U,Polycyclic Aromatic Hydrocarbons (PAH),urine,X3_FL_ln_U-creatinine-ln-Zscore
+X2_FL_ln_U,Polycyclic Aromatic Hydrocarbons (PAH),urine,X2_FL_ln_U-creatinine-ln-Zscore
+X1_PH_ln_U,Polycyclic Aromatic Hydrocarbons (PAH),urine,X1_PH_ln_U-creatinine-ln-Zscore
+X1_PY_ln_U,Polycyclic Aromatic Hydrocarbons (PAH),urine,X1_PY_ln_U-creatinine-ln-Zscore
+X23_OH_PH_ln_U,Polycyclic Aromatic Hydrocarbons (PAH),urine,X23_OH_PH_ln_U-creatinine-ln-Zscore
+BPA_ln_U,Personal Care Products,urine,BPA_ln_U-creatinine-ln-Zscore
+BP3_ln_U,Personal Care Products,urine,BP3_ln_U-creatinine-ln-Zscore
+BuP_binary_U,Personal Care Products,urine,BuP_binary_U-creatinine-ln-Zscore
+EtP_binary_U,Personal Care Products,urine,EtP_binary_U-creatinine-ln-Zscore
+MeP_ln_U,Personal Care Products,urine,MeP_ln_U-creatinine-ln-Zscore
+PrP_ln_U,Personal Care Products,urine,PrP_ln_U-creatinine-ln-Zscore
+BPF_binary_U,Personal Care Products,urine,BPF_binary_U-creatinine-ln-Zscore
+BPS_ln_U,Personal Care Products,urine,BPS_ln_U-creatinine-ln-Zscore
+TCC_binary_U,Personal Care Products,urine,TCC_binary_U-creatinine-ln-Zscore
+X25_DCP_ln_U,Personal Care Products,urine,X25_DCP_ln_U-creatinine-ln-Zscore
+X24_DCP_ln_U,Personal Care Products,urine,X24_DCP_ln_U-creatinine-ln-Zscore
+Perchlorate_ln_U,Inorganic Anions,urine,Perchlorate_ln_U-creatinine-ln-Zscore
+Nitrate_ln_U,Inorganic Anions,urine,Nitrate_ln_U-creatinine-ln-Zscore
+Thiocyanate_ln_U,Inorganic Anions,urine,Thiocyanate_ln_U-creatinine-ln-Zscore
+DEA_ln_U,Pesticides,urine,DEA_ln_U-creatinine-ln-Zscore
+X5OHIMI_binary_U,Pesticides,urine,X5OHIMI_binary_U-creatinine-ln-Zscore
+NDMA_binary_U,Pesticides,urine,NDMA_binary_U-creatinine-ln-Zscore
+DMP_ln_U,Pesticides,urine,DMP_ln_U-creatinine-ln-Zscore
+DEP_ln_U,Pesticides,urine,DEP_ln_U-creatinine-ln-Zscore
+DMTP_ln_U,Pesticides,urine,DMTP_ln_U-creatinine-ln-Zscore
+DETP_binary_U,Pesticides,urine,DETP_binary_U-creatinine-ln-Zscore
+DMDTP_binary_U,Pesticides,urine,DMDTP_binary_U-creatinine-ln-Zscore
+X24D_ln_U,Pesticides,urine,X24D_ln_U-creatinine-ln-Zscore
+X4FPBA_binary_U,Pesticides,urine,X4FPBA_binary_U-creatinine-ln-Zscore
+TCPY_ln_U,Pesticides,urine,TCPY_ln_U-creatinine-ln-Zscore
+MDA_binary_U,Pesticides,urine,MDA_binary_U-creatinine-ln-Zscore
+X3PBA_ln_U,Pesticides,urine,X3PBA_ln_U-creatinine-ln-Zscore
+OXY_binary_U,Pesticides,urine,OXY_binary_U-creatinine-ln-Zscore
+PNP_ln_U,Pesticides,urine,PNP_ln_U-creatinine-ln-Zscore
+DCVDMPCA_binary_U,Pesticides,urine,DCVDMPCA_binary_U-creatinine-ln-Zscore
+PFBA_binary_U,Polyfluoroalkyl Substances (PFAS),urine,PFBA_binary_U-creatinine-ln-Zscore
+PFHxA_binary_U,Polyfluoroalkyl Substances (PFAS),urine,PFHxA_binary_U-creatinine-ln-Zscore
+MnBP_ln_U,Phthalates,urine,MnBP_ln_U-creatinine-ln-Zscore
+MEP_ln_U,Phthalates,urine,MEP_ln_U-creatinine-ln-Zscore
+MEHP_binary_U,Phthalates,urine,MEHP_binary_U-creatinine-ln-Zscore
+MINP_binary_U,Phthalates,urine,MINP_binary_U-creatinine-ln-Zscore
+MBzP_ln_U,Phthalates,urine,MBzP_ln_U-creatinine-ln-Zscore
+MCPP_ln_U,Phthalates,urine,MCPP_ln_U-creatinine-ln-Zscore
+MEHHP_ln_U,Phthalates,urine,MEHHP_ln_U-creatinine-ln-Zscore
+MEOHP_ln_U,Phthalates,urine,MEOHP_ln_U-creatinine-ln-Zscore
+MiBP_ln_U,Phthalates,urine,MiBP_ln_U-creatinine-ln-Zscore
+MECPP_ln_U,Phthalates,urine,MECPP_ln_U-creatinine-ln-Zscore
+MCNP_ln_U,Phthalates,urine,MCNP_ln_U-creatinine-ln-Zscore
+MCOP_ln_U,Phthalates,urine,MCOP_ln_U-creatinine-ln-Zscore
+MHNCH_binary_U,Phthalates,urine,MHNCH_binary_U-creatinine-ln-Zscore
+MCOCH_binary_U,Phthalates,urine,MCOCH_binary_U-creatinine-ln-Zscore
+MHBP_ln_U,Phthalates,urine,MHBP_ln_U-creatinine-ln-Zscore
+HIBP_ln_U,Phthalates,urine,HIBP_ln_U-creatinine-ln-Zscore
+X2_MHA_ln_U,Volatile Organic Compounds (VOC),urine,X2_MHA_ln_U-creatinine-ln-Zscore
+X34_MHA_ln_U,Volatile Organic Compounds (VOC),urine,X34_MHA_ln_U-creatinine-ln-Zscore
+CEMA_AAM_ln_U,Volatile Organic Compounds (VOC),urine,CEMA_AAM_ln_U-creatinine-ln-Zscore
+CMAC_ln_U,Volatile Organic Compounds (VOC),urine,CMAC_ln_U-creatinine-ln-Zscore
+ATCA_ln_U,Volatile Organic Compounds (VOC),urine,ATCA_ln_U-creatinine-ln-Zscore
+BMA_ln_U,Volatile Organic Compounds (VOC),urine,BMA_ln_U-creatinine-ln-Zscore
+NPMA_ln_U,Volatile Organic Compounds (VOC),urine,NPMA_ln_U-creatinine-ln-Zscore
+CEMA_CEM_ln_U,Volatile Organic Compounds (VOC),urine,CEMA_CEM_ln_U-creatinine-ln-Zscore
+CEMA_CYM_ln_U,Volatile Organic Compounds (VOC),urine,CEMA_CYM_ln_U-creatinine-ln-Zscore
+DHB_Cys_ln_U,Volatile Organic Compounds (VOC),urine,DHB_Cys_ln_U-creatinine-ln-Zscore
+GAM_Cys_binary_U,Volatile Organic Compounds (VOC),urine,GAM_Cys_binary_U-creatinine-ln-Zscore
+HEMA_binary_U,Volatile Organic Compounds (VOC),urine,HEMA_binary_U-creatinine-ln-Zscore
+X2_HPMA_ln_U,Volatile Organic Compounds (VOC),urine,X2_HPMA_ln_U-creatinine-ln-Zscore
+X3_HPMA_ln_U,Volatile Organic Compounds (VOC),urine,X3_HPMA_ln_U-creatinine-ln-Zscore
+MA_ln_U,Volatile Organic Compounds (VOC),urine,MA_ln_U-creatinine-ln-Zscore
+MB3_Cys_ln_U,Volatile Organic Compounds (VOC),urine,MB3_Cys_ln_U-creatinine-ln-Zscore
+PHE_Cys_binary_U,Volatile Organic Compounds (VOC),urine,PHE_Cys_binary_U-creatinine-ln-Zscore
+PGA_ln_U,Volatile Organic Compounds (VOC),urine,PGA_ln_U-creatinine-ln-Zscore
+PMA_binary_U,Volatile Organic Compounds (VOC),urine,PMA_binary_U-creatinine-ln-Zscore
+PMM_Cys_ln_U,Volatile Organic Compounds (VOC),urine,PMM_Cys_ln_U-creatinine-ln-Zscore
+TTCA_binary_U,Volatile Organic Compounds (VOC),urine,TTCA_binary_U-creatinine-ln-Zscore
+CYHA_Cys_binary_U,Volatile Organic Compounds (VOC),urine,CYHA_Cys_binary_U-creatinine-ln-Zscore
+IPM1_Cys_ln_U,Volatile Organic Compounds (VOC),urine,IPM1_Cys_ln_U-creatinine-ln-Zscore
+IPM3_Cys_ln_U,Volatile Organic Compounds (VOC),urine,IPM3_Cys_ln_U-creatinine-ln-Zscore

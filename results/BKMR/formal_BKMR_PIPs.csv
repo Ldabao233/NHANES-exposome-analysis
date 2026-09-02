@@ -1,0 +1,14 @@
+"category_group_id","family","outcome","exposure","PIP"
+"C04","Urinary PAH metabolites","CVD","X1_NP_ln_U",0
+"C04","Urinary PAH metabolites","CVD","X1_PH_ln_U",0.1068
+"C04","Urinary PAH metabolites","CVD","X1_PY_ln_U",0.3352
+"C04","Urinary PAH metabolites","CVD","X2_FL_ln_U",0.3688
+"C04","Urinary PAH metabolites","CVD","X2_NP_ln_U",0
+"C04","Urinary PAH metabolites","CVD","X23_OH_PH_ln_U",0.0368
+"C04","Urinary PAH metabolites","CVD","X3_FL_ln_U",0.0228
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","Nitrate_ln_U",0.1536
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","Perchlorate_ln_U",0.1624
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","Thiocyanate_ln_U",0.0732
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8","Nitrate_ln_U",1
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8","Perchlorate_ln_U",0.9944
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8","Thiocyanate_ln_U",1

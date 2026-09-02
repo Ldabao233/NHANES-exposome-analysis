@@ -1,0 +1,40 @@
+"category_group_id","family","outcome","q.fixed","variable","est","sd"
+"C04","Urinary PAH metabolites","CVD",0.25,"X1_NP_ln_U",0,0
+"C04","Urinary PAH metabolites","CVD",0.25,"X1_PH_ln_U",0.0306659988978701,0.0526039001238262
+"C04","Urinary PAH metabolites","CVD",0.25,"X1_PY_ln_U",0.0608055930212483,0.0512319127916778
+"C04","Urinary PAH metabolites","CVD",0.25,"X2_FL_ln_U",0.0875751654411214,0.0836744160573035
+"C04","Urinary PAH metabolites","CVD",0.25,"X2_NP_ln_U",0,0
+"C04","Urinary PAH metabolites","CVD",0.25,"X23_OH_PH_ln_U",-0.0371575464058527,0.0600567255456707
+"C04","Urinary PAH metabolites","CVD",0.25,"X3_FL_ln_U",-0.015374785277821,0.0695222092837253
+"C04","Urinary PAH metabolites","CVD",0.5,"X1_NP_ln_U",0,0
+"C04","Urinary PAH metabolites","CVD",0.5,"X1_PH_ln_U",0.0256664138227798,0.0493002139622082
+"C04","Urinary PAH metabolites","CVD",0.5,"X1_PY_ln_U",0.0554526980302255,0.0462624217532582
+"C04","Urinary PAH metabolites","CVD",0.5,"X2_FL_ln_U",0.0853312734423097,0.0794211822391659
+"C04","Urinary PAH metabolites","CVD",0.5,"X2_NP_ln_U",0,0
+"C04","Urinary PAH metabolites","CVD",0.5,"X23_OH_PH_ln_U",-0.0382656045767575,0.0589405868369687
+"C04","Urinary PAH metabolites","CVD",0.5,"X3_FL_ln_U",-0.0163258617216728,0.0690278027480055
+"C04","Urinary PAH metabolites","CVD",0.75,"X1_NP_ln_U",0,0
+"C04","Urinary PAH metabolites","CVD",0.75,"X1_PH_ln_U",0.0185759580688245,0.052887038306397
+"C04","Urinary PAH metabolites","CVD",0.75,"X1_PY_ln_U",0.047130596724819,0.0516018588831264
+"C04","Urinary PAH metabolites","CVD",0.75,"X2_FL_ln_U",0.0816803921667431,0.080625212944054
+"C04","Urinary PAH metabolites","CVD",0.75,"X2_NP_ln_U",0,0
+"C04","Urinary PAH metabolites","CVD",0.75,"X23_OH_PH_ln_U",-0.0390316321023736,0.0595887750473713
+"C04","Urinary PAH metabolites","CVD",0.75,"X3_FL_ln_U",-0.017284108473854,0.0692314097111296
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.25,"Nitrate_ln_U",0.0175610742216645,0.0317178026178994
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.25,"Perchlorate_ln_U",-0.0287698267541905,0.03232915317781
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.25,"Thiocyanate_ln_U",0.0098110727055456,0.0298624515016963
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.5,"Nitrate_ln_U",0.0209947197827836,0.0286538567907918
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.5,"Perchlorate_ln_U",-0.0339295938160733,0.0303080381624845
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.5,"Thiocyanate_ln_U",0.0132738171218811,0.0280136519759835
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.75,"Nitrate_ln_U",0.024504492344295,0.0301075453181194
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.75,"Perchlorate_ln_U",-0.0398130985026572,0.0335519288990441
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD",0.75,"Thiocyanate_ln_U",0.017304811685849,0.0306533422132662
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.25,"Nitrate_ln_U",2.72757104669864,0.547703586904015
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.25,"Perchlorate_ln_U",2.25561751702959,0.550066116592092
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.25,"Thiocyanate_ln_U",-4.62647339908561,0.516720553139712
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.5,"Nitrate_ln_U",2.8234060692935,0.473603337453164
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.5,"Perchlorate_ln_U",2.47665286875609,0.486687143546864
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.5,"Thiocyanate_ln_U",-4.35400872024016,0.463166904079497
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.75,"Nitrate_ln_U",3.06622444681517,0.560060366193764
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.75,"Perchlorate_ln_U",2.61562744452972,0.570657206755416
+"C06","Urinary perchlorate, nitrate and thiocyanate","LE8",0.75,"Thiocyanate_ln_U",-3.67238832472654,0.551191501177659

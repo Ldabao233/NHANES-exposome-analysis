@@ -1,0 +1,4 @@
+"sleep_category","N","mean_sleep_hours","sd_sleep_hours","trouble_sleeping_yes_n","diagnosed_sleep_disorder_yes_n"
+"Recommended",5108,7.57781910728269,0.521200603879223,1137,212
+"Short",2983,5.52044921220248,0.851233491328381,1025,286
+"Long",1410,9.65354609929078,0.892165756488147,387,49

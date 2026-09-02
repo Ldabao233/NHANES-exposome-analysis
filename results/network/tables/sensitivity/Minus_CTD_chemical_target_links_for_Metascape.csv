@@ -1,0 +1,28 @@
+ChemicalID_30,Chemical,Gene,Source
+2,"2,5-Dimethylfuran",MAPT,SwissTargetPrediction
+4,Furan,ALOX5,SwissTargetPrediction
+5,Fluorene,ESR1,SwissTargetPrediction
+5,Fluorene,DYRK1A,SwissTargetPrediction
+8,Acrylamide,MAP2K1,SwissTargetPrediction
+13,A-alpha-C,DYRK1A,SwissTargetPrediction
+13,A-alpha-C,LIMK1,SwissTargetPrediction
+15,HEMA mercapturic acid,ACE,SwissTargetPrediction
+15,HEMA mercapturic acid,EPHX2,SwissTargetPrediction
+15,HEMA mercapturic acid,TGFBR1,SwissTargetPrediction
+15,HEMA mercapturic acid,PPARG,SwissTargetPrediction
+16,MeA-alpha-C,TGFBR1,SwissTargetPrediction
+16,MeA-alpha-C,TBK1,SwissTargetPrediction
+16,MeA-alpha-C,CDK8,SwissTargetPrediction
+16,MeA-alpha-C,DYRK1A,SwissTargetPrediction
+16,MeA-alpha-C,PIK3CA,SwissTargetPrediction
+17,Mono-benzyl phthalate,PPARG,SwissTargetPrediction
+20,1-Aminonaphthalene,PTK2,SwissTargetPrediction
+20,1-Aminonaphthalene,PTGS2,SwissTargetPrediction
+25,"2,6-Dimethylaniline",APP,SwissTargetPrediction
+27,2-Aminonaphthalene,PTK2,SwissTargetPrediction
+27,2-Aminonaphthalene,PTGS2,SwissTargetPrediction
+28,4-Aminobiphenyl,KIF11,SwissTargetPrediction
+28,4-Aminobiphenyl,ESR1,SwissTargetPrediction
+28,4-Aminobiphenyl,PIK3CA,SwissTargetPrediction
+15,HEMA mercapturic acid,ACE,SEA
+18,Ethylbenzene,SIGMAR1,SEA

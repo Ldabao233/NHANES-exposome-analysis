@@ -1,0 +1,27 @@
+exposure,covariate,contrast_term,contrast_label,reference_category,comparison_category,weighted_correlation,conf_low,conf_high,std_error,p_value,n,design_df,transform,module_rds,cycles,weight_variables,p_fdr_bh_within_contrast,p_fdr_bh_global,nominal_p05,fdr05_within_contrast,fdr05_global,family,family_display,display_label
+Cd_ln_U,age,age_z,"Age
+(weighted rank correlation)",,,0.5395820128168176,0.5012840711172512,0.5778799545163841,0.01875261137729288,2.099290245363184e-23,2233,30,natural_log_transformed,HM_urine.rds,2013-2014|2015-2016,WTSA2YR,3.127942465591144e-21,8.210848972176753e-21,TRUE,TRUE,TRUE,Heavy Metals,Metals and metalloids,Cd_ln_U
+Pb_ln_S,age,age_z,"Age
+(weighted rank correlation)",,,0.46426533940745834,0.4272013301064045,0.5013293487085122,0.01814841559787793,6.249906684040234e-22,3259,30,natural_log_transformed,HM_serum.rds,2013-2014|2015-2016,WTSH2YR,4.656180479609975e-20,1.3968541438829926e-19,TRUE,TRUE,TRUE,Heavy Metals,Metals and metalloids,Pb_ln_S
+Pb_ln_U,age,age_z,"Age
+(weighted rank correlation)",,,0.4452362701246037,0.40236515485401647,0.48810738539519094,0.02099186870895333,1.2970551139963197e-19,2233,30,natural_log_transformed,HM_urine.rds,2013-2014|2015-2016,WTSA2YR,6.442040399515055e-18,2.1360449745760443e-17,TRUE,TRUE,TRUE,Heavy Metals,Metals and metalloids,Pb_ln_U
+Sm_PFOS_ln_S,age,age_z,"Age
+(weighted rank correlation)",,,0.389949466287901,0.3089837669500195,0.4709151656257825,0.03798621436127767,3.5356717321899945e-8,997,15,natural_log_transformed,PFC_serum.rds,2015-2016,WTSB2YR,2.634075440481546e-7,8.994403943107717e-7,TRUE,TRUE,TRUE,Polyfluoroalkyl Substances (PFAS),Polyfluoroalkyl Substances (PFAS),Sm_PFOS_ln_S
+n_PFOS_ln_S,age,age_z,"Age
+(weighted rank correlation)",,,0.3725072190548516,0.29806308238859386,0.4469513557211093,0.0349265300796537,2.1270554498822456e-8,997,15,natural_log_transformed,PFC_serum.rds,2015-2016,WTSB2YR,1.8308528729367385e-7,5.592904624102139e-7,TRUE,TRUE,TRUE,Polyfluoroalkyl Substances (PFAS),Polyfluoroalkyl Substances (PFAS),n_PFOS_ln_S
+PFNA_ln_S,age,age_z,"Age
+(weighted rank correlation)",,,0.293789959714449,0.2343380201139744,0.3532418993149236,0.02911067982973637,3.693401510750055e-11,2074,30,natural_log_transformed,PFC_serum.rds,2013-2014|2015-2016,WTSB2YR,9.171947085029301e-10,1.894533332317528e-9,TRUE,TRUE,TRUE,Polyfluoroalkyl Substances (PFAS),Polyfluoroalkyl Substances (PFAS),PFNA_ln_S
+n_PFOA_ln_S,age,age_z,"Age
+(weighted rank correlation)",,,0.2872486409555679,0.2121659562062782,0.3623313257048576,0.03522611403385155,6.799019614385639e-7,997,15,natural_log_transformed,PFC_serum.rds,2015-2016,WTSB2YR,3.7520515649757782e-6,1.2663174031793253e-5,TRUE,TRUE,TRUE,Polyfluoroalkyl Substances (PFAS),Polyfluoroalkyl Substances (PFAS),n_PFOA_ln_S
+PFHS_ln_S,age,age_z,"Age
+(weighted rank correlation)",,,0.2398193519472846,0.1751744347489659,0.30446426914560326,0.03165342459516747,1.8976453197269056e-8,2074,30,natural_log_transformed,PFC_serum.rds,2013-2014|2015-2016,WTSB2YR,1.7926656688634473e-7,5.148168074684772e-7,TRUE,TRUE,TRUE,Polyfluoroalkyl Substances (PFAS),Polyfluoroalkyl Substances (PFAS),PFHS_ln_S
+Cd_ln_S,age,age_z,"Age
+(weighted rank correlation)",,,0.21020343906803263,0.16713992095797697,0.2532669571780883,0.02108607888099713,4.9201024655758195e-11,3259,30,natural_log_transformed,HM_serum.rds,2013-2014|2015-2016,WTSH2YR,1.0472789533868532e-9,2.4054688460604283e-9,TRUE,TRUE,TRUE,Heavy Metals,Metals and metalloids,Cd_ln_S
+PFHpA_binary_S,age,age_z,"Age
+(weighted rank correlation)",,,0.12726395524222878,0.03857686540320035,0.2159510450812572,0.04160881500750554,0.00796284349040963,1077,15,binary_above_detection_threshold,PFC_serum.rds,2013-2014,WTSB2YR,0.01694948114387193,0.02998283668049548,TRUE,TRUE,TRUE,Polyfluoroalkyl Substances (PFAS),Polyfluoroalkyl Substances (PFAS),PFHpA_binary_S
+PFHxA_binary_U,age,age_z,"Age
+(weighted rank correlation)",,,0.03188940347935843,-0.05783648412175824,0.12161529108047513,0.04209618181581318,0.4604640958805879,1013,15,binary_above_detection_threshold,PFC_urine.rds,2013-2014,WTSSBH2Y,0.5577979698065658,0.6233967499223118,FALSE,FALSE,FALSE,Polyfluoroalkyl Substances (PFAS),Polyfluoroalkyl Substances (PFAS),PFHxA_binary_U
+X25_DMF_binary_S,smoke,contrast_z,"Current smoker
+(vs never)",Never,Now,0.8810169449074181,0.8385798131478507,0.9234540766669856,0.02077936840828052,2.4636062268821495e-28,2434,30,binary_above_detection_threshold,VOC_serum.rds,2013-2014|2015-2016,WTSVOC2Y,1.8353866390272014e-26,3.854311941957123e-25,TRUE,TRUE,TRUE,Volatile Organic Compounds (VOC),Volatile Organic Compounds (VOC),25_DMF_binary_S
+Furan_binary_S,smoke,contrast_z,"Current smoker
+(vs never)",Never,Now,0.7643819976178421,0.70362399463673,0.8251400005989542,0.02975019459017282,5.514199774626191e-22,2437,30,binary_above_detection_threshold,VOC_serum.rds,2013-2014|2015-2016,WTSVOC2Y,6.846798053494186e-21,1.3272254688311808e-19,TRUE,TRUE,TRUE,Volatile Organic Compounds (VOC),Volatile Organic Compounds (VOC),Furan_binary_S

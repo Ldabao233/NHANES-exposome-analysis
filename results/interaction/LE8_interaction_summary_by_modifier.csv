@@ -1,0 +1,5 @@
+"Modifier","Outcome","Total_tests","Valid_tests","Median_N","Min_N","Max_N","Nominal_P_lt_0_05","FDR_lt_0_05","FDR_lt_0_10"
+"Diet","LE8_no_diet",149,149,2212,877,3437,18,0,0
+"PhysicalActivity","LE8_no_PA",149,149,2212,877,3437,17,1,2
+"Sleep","LE8_no_sleep",149,149,2212,877,3437,2,0,0
+"Smoking","LE8_no_smoking",149,149,2212,877,3437,18,0,0

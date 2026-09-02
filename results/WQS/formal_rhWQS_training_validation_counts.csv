@@ -1,0 +1,3 @@
+"category_group_id","family","outcome","direction","holdout","n_training","n_validation","training_CVD_events","validation_CVD_events","training_CVD_nonevents","validation_CVD_nonevents","converged_bootstraps","attempted_bootstraps"
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","positive",1,1331,887,105,70,1226,817,10,10
+"C06","Urinary perchlorate, nitrate and thiocyanate","CVD","positive",2,1331,887,105,70,1226,817,10,10

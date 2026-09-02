@@ -1,0 +1,9 @@
+Scenario,Category,N_terms,N_FDR_lt_0_05,Best_FDR
+Full,GO Biological Processes,1132,578,5.602796437537268e-9
+Full,KEGG Pathway,170,124,4.139937718785167e-8
+Minus_CTD,GO Biological Processes,170,20,0.013568559012200934
+Minus_CTD,KEGG Pathway,55,13,0.013568559012200934
+Minus_SEA,GO Biological Processes,1119,580,5.602796437537268e-9
+Minus_SEA,KEGG Pathway,171,127,4.139937718785167e-8
+Minus_Swiss,GO Biological Processes,1118,568,5.602796437537268e-9
+Minus_Swiss,KEGG Pathway,168,127,4.139937718785167e-8
