@@ -1,5 +1,0 @@
-Scenario,N_sources,N_unique_chemical_targets,N_candidate_CVD_genes
-Full,3,2226,116
-Minus_CTD,2,232,18
-Minus_Swiss,2,2143,110
-Minus_SEA,2,2152,115

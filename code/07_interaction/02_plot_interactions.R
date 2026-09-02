@@ -1,24 +1,12 @@
 # ==============================================================================
 # Figure 6. Toxicant–lifestyle effect-modification analyses
 #
-# Panel A: CVD multiplicative interaction forest plot
-# Panel B: Stratified 2-NP–CVD association by smoking status
-# Panel C: LE8 multiplicative interaction (beta) forest plot
-# Panel D: Stratified NDMA–LE8_no_PA association by physical activity
-#
 # Required input files:
 #   1. component_primary_continuous_interaction.csv
 #   2. component_RERI_bootstrap.csv
 #   3. individual_toxicant_primary_interaction_256.csv
 #   4. LE8_interaction_exploratory_signals.csv
 #
-# Output:
-#   Figure6A_CVD_interaction_forest.pdf
-#   Figure6B_2NP_smoking_stratified.pdf
-#   Figure6C_LE8_interaction_forest.pdf
-#   Figure6D_NDMA_PA_stratified.pdf
-#   Figure6_interaction_combined.pdf
-#   Figure6_interaction_combined.tiff
 # ==============================================================================
 
 suppressPackageStartupMessages({
